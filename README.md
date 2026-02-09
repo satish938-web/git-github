@@ -1,7 +1,7 @@
 //after dwonload
 git --version
 config --global user.name "satish gupta"
-git config --global user.email "satish202627@gmail.com"
+git config --global user.email "satish20**@gmail.com"
 git config --list
 
 
